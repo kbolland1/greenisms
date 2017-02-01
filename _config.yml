@@ -1,13 +1,13 @@
 # Site settings
-email: 
-baseurl: ""
+email: kevin@greenisms.com
+baseurl: "www.greenisms.com"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-91235140-1
 
 # SEO settings
 title: Greenisms
-description: 
+description: Quality Content, Sourced Responsibly, Designed to Help You!
 url: ""
 twitter_username: 
 default_img: 
