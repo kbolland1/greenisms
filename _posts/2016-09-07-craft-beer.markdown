@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "Sustainability"
 date: 2016-09-07
 categories:
   - Environmental
