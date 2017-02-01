@@ -17,7 +17,6 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
 
 # Build settings
 include: ["_categories"]
