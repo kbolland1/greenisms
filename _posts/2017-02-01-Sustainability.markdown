@@ -10,9 +10,8 @@ description:
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
 ---
-# Sustainability
 
-How related is Sustainability to my life? What even IS sustainability?
+What is Sustainability? How related is sustainability to my life? What makes a product "sustainable" or "green" and why should I care?
 
-Well, thats what I am here to help you with. :)
+These are the types of questions I am here to help you with. :)
 
