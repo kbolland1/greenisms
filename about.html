@@ -7,17 +7,17 @@ layout: default
       <figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
     {% endfor %}
     <div class="previews__container">
-      <header class="section-padding--lg mast">
-    <a class="nav nav--white" href="{{ site.baseurl }}/">
-      <i class="fa fa-lg fa-arrow-left"></i>
-      <span>Back to Home Page</span>
-    </a>
-  </header>
       <h1>{{ site.title }} - About Us</h1>
     </div>
   </div>
 
   <div>
+      <header>
+    <a class="nav nav--white" href="{{ site.baseurl }}/">
+      <i class="fa fa-lg fa-arrow-left"></i>
+      <span>Back to Home Page</span>
+    </a>
+  </header>
        <div class="tab">
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
