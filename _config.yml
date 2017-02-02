@@ -13,10 +13,10 @@ twitter_username:
 default_img:
 
 # Profile settings
-name: 
+name: Kevin Bolland
 profile_img: http://www.greenisms.com/assets/images/G0471599.JPG
 profile: 
-social:
+social: https://www.linkedin.com/in/kevin-bolland-548b3927
 
 # Build settings
 include: ["_categories"]
