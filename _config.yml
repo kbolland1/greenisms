@@ -15,8 +15,8 @@ default_img:
 # Profile settings
 name: Kevin Bolland
 profile_img: http://www.greenisms.com/assets/images/G0471599.JPG
-profile: 
-social: https://www.linkedin.com/in/kevin-bolland-548b3927
+profile: https://www.linkedin.com/in/kevin-bolland-548b3927
+social:
 
 # Build settings
 include: ["_categories"]
