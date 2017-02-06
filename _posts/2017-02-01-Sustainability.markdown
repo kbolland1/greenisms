@@ -11,8 +11,6 @@ image-sm:
 
 
 
-Realistic and Obtainable Goals
-
 Sustainability is such a broad term that it often overwhelms us.  It becomes difficult to grasp the idea of "sustainable business" when there are so many different ways to approach problems and solutions. Especially when some of these problems appear to be impossible to solve. While some problems are much larger than others, my services help you focus on the "triple bottom-line" of your business and of your life.
 
 Simply put, sustainability is the effective and responsible decision making process that maximizes you profitability, positively contributes to your social responsibility, and minimizes your environmental impact.
