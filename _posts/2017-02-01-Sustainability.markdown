@@ -3,13 +3,13 @@ layout: post
 title: "Sustainability"
 date: 2017-02-01
 categories:
--  Interesting Products
+- Home 
+- About
+- Contact Me
 description: 
 image: 
 image-sm: 
 ---
-
-
 
 Sustainability is such a broad term that it often overwhelms us.  It becomes difficult to grasp the idea of "sustainable business" when there are so many different ways to approach problems and solutions. Especially when some of these problems appear to be impossible to solve. While some problems are much larger than others, my services help you focus on the "triple bottom-line" of your business and of your life.
 
